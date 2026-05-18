@@ -16,7 +16,7 @@ My goal is to **consistently practice** building mini-projects to strengthen my 
 - [x] **Day 01** - [Drum Kit](https://kauacampostp.github.io/JavaScript30/01%20-%20Drum%20Kit/)
 - [x] **Day 02** - [JS + CSS Clock](https://kauacampostp.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock)
 - [x] **Day 03** - [CSS Variables](https://kauacampostp.github.io/JavaScript30/03%20-%20CSS%20Variables)
-- [ ] **Day 04** - Array Cardio Day 1
+- [x] **Day 04** - [Array Cardio Day 1](https://kauacampostp.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201)
 - [ ] **Day 05** - Flex Panel Gallery
 - [ ] **Day 06** - Type Ahead
 - [ ] **Day 07** - Array Cardio Day 2
